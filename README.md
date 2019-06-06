@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/3ngineer2k8/matriz8x8matlab/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+En una empresa de publicidad, se requiere implementar un programa que permita al diseñador bosquejar dos imágenes a visualizar en una matriz de leds a instalar al lado de un semáforo, la idea es mostrar una imagen que le indique al peatón cuando caminar y otra para cuando parar; para ello el aplicativo que diseñe debe permitir:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+•	Crear una matríz (no inferior a 8x8)
+•	El programa debe permitir que el usuario establezca que leds encenderán para formar la imagen a partir del ingreso de un 1 lógico en las casillas que determine, para cada imagen
+•	Mostrar la matriz diseñada con la imagen a mostrar para caminar y parar.
+•	Simular con un temporizador, la visualización alterna de cada matriz, el usuario determina dicho tiempo.
+•	Mostrar una matriz que contenga la coincidencia de led encendido para la imagen de caminar y parar.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/3ngineer2k8/matriz8x8matlab/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
